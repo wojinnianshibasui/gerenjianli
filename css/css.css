@@ -1,0 +1,88 @@
+*{
+	margin:0;
+	padding:0;
+}
+.top{
+	width: 100%;
+	height:1097px;
+	float: left;
+}
+.top img{
+	width: 100%;
+	height:1097px;
+	float: left;
+}
+.grjs{
+	width: 100%;
+	height:686px;
+	float: left;
+	position:relative;
+}
+.grjs img{
+	width: 100%;
+	height:686px;
+	float:left;
+	
+}
+.grjs_con{
+	width: 666px;
+	height: 270px;
+	position:absolute;
+	left: 35%;
+	top: 35%;
+}
+.grjs_con h3{
+	text-align:center;
+	font-family: "微软雅黑";
+	color:#3c3c3c;
+	line-height:45px;
+}
+.grjs_t{
+	width: 280px;
+	height: 60px;
+	position:absolute;
+	left: 49%;
+	top: 7%;
+	font-family: "微软雅黑";
+	color:#3c3c3c;
+}
+.grjs_con_jn{
+	width: 666px;
+	height: 270px;
+	position:absolute;
+	left: 35%;
+	top: 15%;
+}
+.grjs_con_jn h3{
+	text-align:center;
+	font-family: "微软雅黑";
+	color:#3c3c3c;
+	line-height:45px;
+}
+.buttom{
+	width: 100%;
+	height:686px;
+	float: left;
+	position:relative;
+}
+.buttom img{
+	width: 100%;
+	height:686px;
+	float: left;
+}
+.buttom_lx{
+	width: 680px;
+	height: 30px;
+	position:absolute;
+	top:65%;
+	left: 35%;
+	
+}
+.buttom_lx p{
+	float:left;
+	font-family: "微软雅黑";
+	font-size:24px;
+	margin-left: 30px;
+	color:#3c3c3c;
+	
+}
